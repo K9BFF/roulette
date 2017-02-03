@@ -1,5 +1,5 @@
 # masoncodes.me
-# licensed under GNU GPl v3
+# licensed under GNU GPL v3
 # I AM NOT RESPONSIBLE FOR THE LOSS OF ANY DATA DUE TO YOU RUNNING THIS FILE!
 
 import os

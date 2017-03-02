@@ -1,0 +1,3 @@
+By running roulette.py, you acknowledge that I am not responsible for any losses software-wise or hrdware-wise to your computer. I take no responsibility for any damages to your computer. This program was designed to possibly delete any and all files, incluing itself. The game generates a random number, between 1 and 6, to symbolise a revolver. if the number is 6, the program deletes all files. This cannot be undone.
+
+This program is licensed under the GNU GPL v3.
